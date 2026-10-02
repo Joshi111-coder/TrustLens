@@ -1,0 +1,73 @@
+[
+  {
+    "id": "sebi_guaranteed_returns",
+    "name": "Securities and Exchange Board of India (SEBI)",
+    "topic": "Guaranteed Returns Prohibition",
+    "verification_status": "OFFICIAL REGULATION",
+    "url": "https://investor.sebi.gov.in",
+    "summary": "SEBI strictly prohibits any registered intermediary or entity from offering guaranteed, fixed, or risk-free returns in securities markets. All market investments are subject to market risks.",
+    "advice": "Any entity promising assured or fixed monthly/annual returns in stock, forex, or crypto markets is operating outside regulated norms. Always cross-verify credentials on the official SEBI portal.",
+    "keywords": ["guaranteed", "guaranteed returns", "fixed returns", "assured profit", "25% monthly", "double money", "zero risk", "profit sharing"]
+  },
+  {
+    "id": "sebi_registration_check",
+    "name": "SEBI Registered Intermediary Directory",
+    "topic": "Regulatory Registration & Approval Claims",
+    "verification_status": "OFFICIAL VERIFICATION SOURCE",
+    "url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13",
+    "summary": "Legitimate investment advisors, portfolio managers, and research analysts must hold a valid SEBI registration number (e.g., INH, INA, INZ). Unregistered individuals on Telegram or WhatsApp frequently forge approval claims.",
+    "advice": "Do not accept text assertions or certificates of SEBI approval in chat messages. Check the SEBI registration number directly on SEBI's official website directory.",
+    "keywords": ["sebi approved", "sebi registered", "sebi certified", "government approved", "govt approved", "sebi license"]
+  },
+  {
+    "id": "sebi_social_media_tips",
+    "name": "SEBI Advisory on Social Media Financial Tips",
+    "topic": "Unsolicited Stock Tips & VIP Groups",
+    "verification_status": "OFFICIAL ADVISORY",
+    "url": "https://investor.sebi.gov.in",
+    "summary": "SEBI warns investors against unsolicited investment advice, 'VIP insider calls', and stock tips distributed through Telegram, WhatsApp, SMS, or YouTube channels.",
+    "advice": "Never trade or transfer funds based on unsolicited tips from social media groups, even if they share purported profit screenshots or customer testimonials.",
+    "keywords": ["vip group", "telegram", "whatsapp group", "insider tips", "sure shot", "jackpot call", "pump"]
+  },
+  {
+    "id": "rbi_otp_credentials",
+    "name": "Reserve Bank of India (RBI Kehta Hai)",
+    "topic": "Confidential Credential Protection",
+    "verification_status": "OFFICIAL DIRECTIVE",
+    "url": "https://rbikehtahai.rbi.org.in",
+    "summary": "RBI regulations mandate that banks and financial institutions will never ask for your One-Time Password (OTP), UPI PIN, card CVV, or net banking password under any circumstance.",
+    "advice": "Never share OTP or PIN with anyone, even if they claim to be a bank official, regulatory officer, or account activation agent.",
+    "keywords": ["otp", "pin", "password", "cvv", "share otp", "send pin", "verification code", "card details"]
+  },
+  {
+    "id": "rbi_unregulated_deposits",
+    "name": "RBI & BUDS Act (Unregulated Deposit Schemes)",
+    "topic": "Ponzi Schemes & Unregulated Deposits",
+    "verification_status": "STATUTORY REGULATION",
+    "url": "https://sachet.rbi.org.in",
+    "summary": "Under the Banning of Unregulated Deposit Schemes Act (BUDS Act, 2019), accepting deposits with promises of high interest without RBI/SEBI authorization is a non-bailable criminal offense.",
+    "advice": "Verify whether an investment scheme is registered on the RBI Sachet portal (sachet.rbi.org.in) before depositing any capital.",
+    "keywords": ["deposit", "daily return", "weekly return", "double your money", "high interest", "scheme", "multi-level"]
+  },
+  {
+    "id": "npci_upi_safety",
+    "name": "National Payments Corporation of India (NPCI)",
+    "topic": "UPI PIN & Payment Flow Safety",
+    "verification_status": "OFFICIAL GUIDELINE",
+    "url": "https://www.npci.org.in",
+    "summary": "UPI PIN is required exclusively when money is leaving your bank account (debit). You NEVER need to enter your UPI PIN, scan a QR code, or approve a collect request to RECEIVE money.",
+    "advice": "If someone asks you to enter your PIN or scan a QR code to 'receive prize money', 'verify account', or 'activate cashback', it is an unauthorized debit attempt.",
+    "keywords": ["upi pin", "scan qr", "collect request", "receive payment", "activate account", "send payment", "transfer money"]
+  },
+  {
+    "id": "cybercrime_reporting",
+    "name": "National Cyber Crime Reporting Portal (MHA)",
+    "topic": "Incident Reporting & 1930 Financial Fraud Helpline",
+    "verification_status": "GOVERNMENT HELPLINE",
+    "url": "https://cybercrime.gov.in",
+    "summary": "If you suspect you have fallen victim to financial fraud or transferred money under coercion, contact the National Cyber Fraud Helpline at 1930 immediately within the golden hour to freeze fraudulent transactions.",
+    "advice": "Report unauthorized transactions immediately to your bank and file an official complaint on cybercrime.gov.in.",
+    "keywords": ["fraud", "cybercrime", "helpline", "1930", "report scam", "police", "freeze"]
+  }
+]
+
